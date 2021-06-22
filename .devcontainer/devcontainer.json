@@ -1,0 +1,12 @@
+{
+  "name": "hutu-no-linux",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "c",
+  "workspaceFolder": "/app",
+  "extensions": [
+    "ms-vscode.cpptools"
+],
+  "settings": {
+    "editor.formatOnSave": true,
+  }
+}
